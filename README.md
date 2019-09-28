@@ -1,2 +1,2 @@
 # Coffee-game
-real game made ass test task
+real game made ass test task on React
